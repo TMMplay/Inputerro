@@ -1,2 +1,2 @@
 #Inputerro
-is rich input liblary 
+is rich input library
