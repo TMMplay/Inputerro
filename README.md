@@ -1,5 +1,5 @@
 # Inputerro
-is rich input library for TypeScript / JavaScript alpications.
+is rich input library for TypeScript / JavaScript aplications.
 
 Project is still in early stage and there will be some breaking changes in usage.
 
